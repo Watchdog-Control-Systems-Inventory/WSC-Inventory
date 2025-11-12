@@ -5,7 +5,7 @@ Updating QR Code Links & HTML Redirects
 1. Find or Create the Amazon ASIN
 If you’re linking to an Amazon product:
 Copy the ASIN from the URL — it’s the 10-character code after /dp/.
-Example: https://www.amazon.com/dp/B08F2Y6ZDL
+Example: (https://www.amazon.com/dp/B0CC5P8NC2?)
 
 2. Update the HTML Redirect Code
 Each HTML file in this repo automatically redirects to the supplier’s page.
